@@ -1,0 +1,2 @@
+# javascriptArrays
+arrays assignment
